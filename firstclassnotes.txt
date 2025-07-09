@@ -1,0 +1,119 @@
+Python - high level programming language
+intrepreted 
+simple language
+
+
+1991 - guidovan rossum 
+
+why python ?
+
+data - information 
+
+application  - 
+
+
+kfc : based on data - 10kg , sentiment analysis
+
+stock :
+
+swiggy : person - three weeks - wednesay - briyani at 12pm
+
+fourth week - 10pm - swiggy 
+11 - 30%
+11:30 - 50% of briyani offers 
+buy 1 free 1 
+
+zepto - firday - miss you  
+
+machine - track - 
+
+model - python 
+
+------------------------------------
+easy to learn 
+versatile - web development - flask , django , 
+game development pygames
+datascience 
+dataanalyst - 
+automation devlopment
+cross platform
+community 
+
+================================
+
+design 
+
+application
+
+development
+
+testing 
+debugging
+
+deployment
+
+----------------------
+
+intrepreted programming language
+modules 
+
+-------------------------
+python.org - please download python 
+
+anaconda navigator 
+
+.py
+
+
+--------------------
+
+variables
+
+browser to server - request
+server to browser - response
+
+name 
+age 
+name123
+123name
+name12323$
+%naje
+
+name 123
+name_123
+
+
+datatypes - data - information 
+
+
+number - int - 10  , float (decimal) - 10.4
+string - '' or "" - 'priya' or "priya"
+boolean - true or false
+nan - not an  number
+undefined
+null
+
+
+a=10
+
+a declaration 
+= assign
+10 - definition
+
+
+a
+print(a) - undefined
+
+-------------------------------
+
+github
+github desktop 
+
+
+
+
+
+
+
+
+
